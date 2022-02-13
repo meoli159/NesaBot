@@ -1,0 +1,5 @@
+2021-11-18 00:00:12.961  INFO 14680 --- [XNIO-1 task-13] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:chachacha mussic"
+2021-11-18 00:00:13.779  INFO 14680 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: chachacha mussic
+2021-11-18 00:00:13.789  INFO 14680 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"endTime":0,"track":"QAAAvwIAVURhbmNlU3BvcnQgbXVzaWMgLSBMYXRpbiBDaGEgQ2hhIFlvdSBXaWxsIE5ldmVyIE5vbiBTdG9wIEluc3RydW1lbnRhbCAtIERhbmNpbmcgbXVzaWMAEERhbmNlU3BvcnQgTXVzaWMAAAAAAEt8OAALbGZ5Z2o5R1ZKMzgAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1sZnlnajlHVkozOAAHeW91dHViZQAAAAAAAAAA","noReplace":false,"startTime":0,"guildId":"698564478224171068","op":"play"}
+2021-11-18 00:11:37.285  INFO 14680 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:62018 -- CloseStatus[code=1006, reason=]
+2021-11-18 00:11:37.285  INFO 14680 --- [XNIO-1 I/O-2] lavalink.server.io.SocketContext         : Shutting down 1 playing players.

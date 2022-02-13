@@ -1,0 +1,5 @@
+D:\Code\Nesa\NesaBot\NesaBot\obj\Debug\net5.0\NesaBot.csproj.AssemblyReference.cache
+D:\Code\Nesa\NesaBot\NesaBot\obj\Debug\net5.0\NesaBot.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Nesa\NesaBot\NesaBot\obj\Debug\net5.0\NesaBot.AssemblyInfoInputs.cache
+D:\Code\Nesa\NesaBot\NesaBot\obj\Debug\net5.0\NesaBot.AssemblyInfo.cs
+D:\Code\Nesa\NesaBot\NesaBot\obj\Debug\net5.0\NesaBot.csproj.CoreCompileInputs.cache
