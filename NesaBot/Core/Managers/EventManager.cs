@@ -69,7 +69,7 @@ namespace NesaBot.Core.Managers
 
             Console.WriteLine($"[{DateTime.Now}]\t(READY)\tI'm Ready master");
             await _client.SetStatusAsync(UserStatus.Online);
-            await _client.SetGameAsync($"Prefix:{ConfigManager.Config.Prefix}", null, ActivityType.Listening);
+            await _client.SetGameAsync($"Prefix: {ConfigManager.Config.Prefix} ", null, ActivityType.Playing);
 
         }
     }
